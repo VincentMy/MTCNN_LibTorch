@@ -7,7 +7,7 @@ C++ <br>
 opencv <br>
 libtorch <br>
 Ubuntu/windows <br>
-Cuda 10 <br>
+Cuda 9/10 it is depend on the version of libtorch <br>
 # Ubuntu
 If you want to test on Ubuntu. Just Install all the dependencies and use make to build the project. 
 # windows
