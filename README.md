@@ -1,4 +1,4 @@
-# Decsription
+# Description
 This work is used the model of mtcnn which trained by pytorch and processed by C++ to realize a face detect.
 # Prerequisites
 You need to know loading a  torchScript model in C++ ,you can learn from the website of [pytorch](https://pytorch.org/tutorials/advanced/cpp_export.html). You also need to know how to use opencv.
